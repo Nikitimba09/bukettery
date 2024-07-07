@@ -1,0 +1,15 @@
+
+$primary: #ff4c4c;
+$secondary: #52565e;
+$font-family-sans-serif: 'Playfair Display', sans-serif;
+$font-family-sans-serif-secondary: 'Roboto', sans-serif;
+
+@import 'bootstrap/mixins';
+@import 'bootstrap/functions';
+@import 'bootstrap/variables';
+
+@import 'bootstrap/bootstrap';
+
+@import 'components/site-navbar';
+@import 'components/site-blocks';
+@import 'components/site-footer';
